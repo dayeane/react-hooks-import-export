@@ -9,3 +9,4 @@ function gryffMascot() {
 }
 
 export { colors, gryffMascot };
+
